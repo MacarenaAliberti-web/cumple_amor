@@ -15,9 +15,9 @@ export const SITE_DATA = {
 
     loveMessage: `Feliz cumpleaños a mi compañero de vida y mi par en todo. En este día y en todos, deseo que te sientas a gusto en todo lo que hacés, con los que te rodean y en los sitios en los que elegís estar. Que disfrutes de las cosas que generás, de las que vos mismo sos artífice y también de lo que la vida te va proponiendo.
     
-Cada cumple a tu lado es un capítulo más de nuestra historia de amor. Deseo que dentro de las cosas que vivas ya sean pequeñas, grandes y/o extraordinarias, tengas días tranquilos, proyectos que te entusiasmen y la certeza de que te amo y siempre estaré a tu lado!
+Cada cumple a tu lado es un capítulo más de nuestra historia de amor. Deseo que dentro de las cosas que vivas ya sean pequeñas, grandes y/o extraordinarias, tengas días tranquilos, proyectos que te entusiasmen y la certeza de que siempre estaré a tu lado!
 
-Hoy es tu día, y una oportunidad para mí, de amarte más y celebrarte. Ojalá algún día te vieras con los ojos que yo te admiro. 
+Hoy es tu día, y una oportunidad para mí, de celebrarte. Ojalá algún día te vieras con los ojos que yo te admiro. 
 
 Que este nuevo año de vida te traiga alegría, salud y momentos inolvidables.      
 Qué lindo es coincidir con vos. Te amo hoy y siempre`,
@@ -105,7 +105,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
                 "/images/cataratas/51.jpg",
                 "/images/cataratas/52.jpg",
                 "/images/cataratas/54.jpg",
-                "/images/cataratas/55.jpg",
+                "/images/cataratas/55.JPG",
                 "/images/cataratas/56.jpg",
                 "/images/cataratas/57.jpg",
                 "/images/cataratas/58.jpg",
@@ -196,7 +196,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
         },
         {
             id: 6,
-            url: "/images/howard/12.jpeg",
+            url: "/images/howard/12.JPEG",
             caption: "Howard Johnson - Ezeiza 2025",
             date: "Viajes",
             category: "Viajes",
@@ -219,7 +219,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
         },
         {
             id: 7,
-            url: "/images/lobos/1.jpeg",
+            url: "/images/lobos/1.JPEG",
             caption: "Lobos 2025",
             date: "Viajes",
             category: "Viajes",
@@ -238,7 +238,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
         },
         {
             id: 8,
-            url: "/images/rosario/9.jpeg",
+            url: "/images/rosario/9.JPEG",
             caption: "Rosario 2025",
             date: "Viajes",
             category: "Viajes",
@@ -263,7 +263,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
                 "/images/rosario/17.JPEG",
                 "/images/rosario/18.JPEG",
                 "/images/rosario/19.JPEG",
-                "/images/rosario/20.png",
+                "/images/rosario/20.PNG",
                 "/images/rosario/21.JPEG",
                 "/images/rosario/22.JPEG",
                 "/images/rosario/23.JPEG",
@@ -271,7 +271,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
         },
         {
             id: 9,
-            url: "/images/sur/5.jpeg",
+            url: "/images/sur/5.JPEG",
             caption: "Junín de los Andes 2026",
             date: "Viajes",
             category: "Viajes",
@@ -531,7 +531,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
                 "/images/amigos/15.JPEG",
                 "/images/amigos/16.JPEG",
                 "/images/amigos/17.JPEG",
-                "/images/amigos/18.JPG",
+                "/images/amigos/18.jpg",
                 "/images/amigos/19.jpg",
                 "/images/amigos/20.jpg",
                 "/images/amigos/21.jpg",
@@ -564,7 +564,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
         // MASCOTAS
         {
             id: 14,
-            url: "/images/mascotas/17.jpeg",
+            url: "/images/mascotas/17.JPEG",
             caption: "Pet & Cats",
             date: "Mascotas",
             category: "Mascotas",
