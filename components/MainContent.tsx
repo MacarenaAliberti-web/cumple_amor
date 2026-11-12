@@ -354,7 +354,7 @@ export default function MainContent() {
                           confirmación:
                         </p>
                         <a
-                          href={`https://wa.me/5491140458808?text=Hola%20Macu!%20Quiero%20canjear%20el%20cupón:%20${encodeURIComponent(coupon.title)}`}
+                          href={`https://wa.me/5491140458808?text=Hola%20Amor!%20Quiero%20canjear%20el%20cupón:%20${encodeURIComponent(coupon.title)}`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center justify-center gap-1.5 w-full py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg text-xs font-bold transition-all shadow-md"
