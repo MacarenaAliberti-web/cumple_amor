@@ -635,8 +635,8 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
     ],
 
     coupons: [
-        { id: 1, title: "Día de Campo & Relax", description: "Válido para una escapada de desconexión total con almuerzo y naturaleza.", icon: "🌴" },
-        { id: 2, title: "Masaje Descontracturante", description: "Canjeable en cualquier momento post-laburo intenso.", icon: "💆‍♂️" },
-        { id: 3, title: "Regalo Especial", description: "Una pequeña pista para encontrar un regalito.", icon: "🎁" },
+
+        { id: 1, title: "Masaje Descontracturante", description: "Canjeable en cualquier momento post-laburo intenso.", icon: "💆‍♂️" },
+        { id: 2, title: "Regalo Especial", description: "Una pequeña pista para encontrar un regalito.", icon: "🎁" },
     ]
 };
