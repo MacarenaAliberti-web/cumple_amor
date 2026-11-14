@@ -346,8 +346,26 @@ export default function MainContent() {
                       {coupon.description}
                     </p>
 
-                    {/* MENSAJE WHATSAPP PARA CUPÓN 1 Y 2 SI ESTÁN CANJEADOS */}
-                    {isRedeemed && (coupon.id === 1 || coupon.id === 2) && (
+                    {/* MENSAJE WHATSAPP SEGÚN EL CUPÓN CANJEADO */}
+                    {isRedeemed && coupon.id === 1 && (
+                      <div className="mb-4 p-3 bg-blue-950/60 border border-blue-500/30 rounded-xl space-y-2">
+                        <p className="text-[11px] text-blue-300 leading-tight">
+                          ¡Cupón listo! Reclamalo en persona apenas te
+                          despiertes 💋
+                        </p>
+                        <a
+                          href="https://wa.me/5491140458808?text=Hola%20Amor!%20Quiero%20reclamar%20mi%20vale%20por%20un%20chape%20intenso%20%F0%9F%92%8B"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center justify-center gap-1.5 w-full py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg text-xs font-bold transition-all shadow-md"
+                        >
+                          <MessageCircle className="w-4 h-4" /> Avisar por
+                          WhatsApp 💋
+                        </a>
+                      </div>
+                    )}
+
+                    {isRedeemed && coupon.id === 2 && (
                       <div className="mb-4 p-3 bg-blue-950/60 border border-blue-500/30 rounded-xl space-y-2">
                         <p className="text-[11px] text-blue-300 leading-tight">
                           Enviar un WhatsApp a Macu con la fecha elegida para la
@@ -555,7 +573,8 @@ export default function MainContent() {
                   </h4>
                   <p className="text-xs text-slate-300 leading-relaxed">
                     Le pifiaste las dos veces amorrrrrr jajaja. Pero no te
-                    preocupes, un buen chape y te perdono 💙
+                    preocupes, un buen chape y probá de nuevo cerrando y
+                    abriendo el cupón. 💙
                   </p>
                   <button
                     onClick={() => {
