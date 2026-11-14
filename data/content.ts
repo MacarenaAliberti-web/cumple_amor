@@ -635,7 +635,7 @@ Qué lindo es coincidir con vos. Te amo hoy y siempre`,
     ],
 
     coupons: [
-
+        { id: 1, title: "Vale por un chape intenso", description: "Canjeable todos los días a la mañana. Cupos Ilimitados", icon: "💋" },
         { id: 2, title: "Masaje Descontracturante", description: "Canjeable en cualquier momento post-laburo intenso.", icon: "💆‍♂️" },
         { id: 3, title: "Regalo Especial", description: "Una pequeña pista para encontrar un regalito.", icon: "🎁" },
     ]

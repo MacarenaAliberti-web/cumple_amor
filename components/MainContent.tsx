@@ -554,9 +554,8 @@ export default function MainContent() {
                     ¡Te quedaste sin intentos!
                   </h4>
                   <p className="text-xs text-slate-300 leading-relaxed">
-                    Le pifiaste las dos veces jajaja. Pero no te preocupes, andá
-                    a reclamarle un abrazo a Macu o probá de nuevo cerrando y
-                    abriendo el cupón. 💙
+                    Le pifiaste las dos veces amorrrrrr jajaja. Pero no te
+                    preocupes, un buen chape y te perdono 💙
                   </p>
                   <button
                     onClick={() => {
