@@ -9,7 +9,7 @@ export default function LoginScreen({ onUnlock }: { onUnlock: () => void }) {
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (inputCode === SITE_DATA.passcode || inputCode.length === 8) {
+    if (inputCode.trim() === SITE_DATA.passcode) {
       onUnlock();
     } else {
       setError(true);
